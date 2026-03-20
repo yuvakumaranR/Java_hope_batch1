@@ -37,7 +37,5 @@ public class Subway {
             System.out.println("Total Coins: " + coins);
 
         } while(choice != 0);
-
-        sc.close();
     }
 }
